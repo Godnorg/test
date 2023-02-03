@@ -1,0 +1,16 @@
+p {
+    color: red;
+}
+
+.greeting {
+    color:blue;
+}
+
+p {
+    color: #f8c7cc;
+    background-color: aqua
+}
+
+.greeting {
+    color: rgb(rgb(146, 53, 53), green, blue);
+}
